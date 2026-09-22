@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Rushikesh%20-M09&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Python%20Programmer%20%7C%20Computer%20Vision%20%7C%20Data%20Analysis%20%7C%20DSA&descAlignY=55&descSize=24" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Rushikesh%20-M09&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Python%20Programmer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20DSA&descAlignY=55&descSize=24" width="100%" />
 
 # 💫 About Me:
 🖐️I’m a Python Programmer<br>
