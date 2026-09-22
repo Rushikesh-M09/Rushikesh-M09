@@ -1,10 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Rushikesh%20-M09&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Python%20Programmer%20%7C%20Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20DSA&descAlignY=55&descSize=24" width="100%" />
 
 # 💫 About Me:
-🖐️I’m a Python Programmer<br>
-🔭 I’m currently working on Data Science<br>
-🌱 I’m currently learning computer vision and machine learning
+🖐️ I'm a Computer Science Engineer with a focus on computer vision & machine learning. I like working close to the pixel level — building systems that can see, track, and make sense of the world through a camera feed in real time.<br>
 
+💻 My recent projects include a real-time object detection system built with YOLOv8 and OpenCV, capable of processing both live webcam streams and recorded video, and a face detection and landmark-tracking application using MediaPipe's Face Mesh, mapping key facial points for use cases like AR and accessibility.<br>
+
+🧑‍💼 I work primarily in Python, with NumPy, Pandas, Matplotlib, and OpenCV as my core toolkit, and I'm building out my experience with TensorFlow and Keras to go beyond inference and into training models myself.<br>
+
+😎 I'm looking for opportunities as a Computer Vision or Machine Learning Engineer, where I can keep building things that turn raw visual data into something useful.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanmay_mahajan_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rushikesh-mahajan-244a40399) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushimhjn19@gmail.com) 
